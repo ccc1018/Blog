@@ -9,9 +9,7 @@
 ### CSS
 
 1.  [说说你对盒子模型的理解](https://github.com/ccc1018/Blog/issues/1)
-    ![alt text](Images/css/1.png)
-
-2.  描述 CSS 盒模型中 margin 和 padding 的区别
+2.  [谈谈你对 BFC 的理解](https://github.com/ccc1018/Blog/issues/2)
 
 <!-- ## 成长路 -->
 
