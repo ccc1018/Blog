@@ -1,6 +1,6 @@
-# 小蔡的博客
+# 小新的博客
 
-## 小蔡 · 前端菜鸟成长之路
+## 小新 · 前端菜鸟成长之路
 
 ## 思考人生
 
@@ -9,6 +9,7 @@
 ### CSS
 
 1.  [说说你对盒子模型的理解](https://github.com/ccc1018/Blog/issues/1)
+    ![alt text](Images/css/1.png)
 
 2.  描述 CSS 盒模型中 margin 和 padding 的区别
 
