@@ -4,12 +4,19 @@
 
 ## 思考人生
 
+## 阅读
+
+1. [如何阅读一本书](https://github.com/ccc1018/Blog/issues/4)
+2. [《刀锋》威廉·萨默塞特·毛姆](https://github.com/ccc1018/Blog/issues/5)
+
 ## 技能
 
 ### CSS
 
 1.  [说说你对盒子模型的理解](https://github.com/ccc1018/Blog/issues/1)
 2.  [谈谈你对 BFC 的理解](https://github.com/ccc1018/Blog/issues/2)
+
+## js
 
 ### react
 
