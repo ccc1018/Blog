@@ -8,6 +8,9 @@
 
 1. [如何阅读一本书](https://github.com/ccc1018/Blog/issues/4)
 2. [《刀锋》威廉·萨默塞特·毛姆](https://github.com/ccc1018/Blog/issues/5)
+3. [《斑羚飞渡》沈石溪] (https://github.com/ccc1018/Blog/issues/6)
+4. [《血染的王冠》沈石溪 ](https://github.com/ccc1018/Blog/issues/6)
+5. [《月亮与六便士》威廉·萨默塞特·毛姆](https://github.com/ccc1018/Blog/issues/7)
 
 ## 技能
 
