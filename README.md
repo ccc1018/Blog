@@ -23,7 +23,7 @@
 ## js
 
 1. [说说 javascript 中的数据类型？存储上的差别?](https://github.com/ccc1018/Blog/issues/9)
-2. [说说 javascript 中的数据类型？存储上的差别?](https://github.com/ccc1018/Blog/issues/10)
+2. [说说你了解的 js 数据结构？](https://github.com/ccc1018/Blog/issues/10)
 
 ### react
 
