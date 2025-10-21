@@ -33,7 +33,7 @@
 
 ### 工程化
 
-1. [package.json 文件中的 devDependencies 和 dependencies 对象有什么区别 ?] (https://github.com/ccc1018/Blog/issues/11)
+1. [package.json 文件中的 devDependencies 和 dependencies 对象有什么区别 ?](https://github.com/ccc1018/Blog/issues/11)
 
 ## 勘误及提问
 
