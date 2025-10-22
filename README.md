@@ -28,6 +28,7 @@
 ### react
 
 1. [真正理解虚拟 DOM](https://github.com/ccc1018/Blog/issues/3)
+2. [为什么 react 需要 fiber 架构，而 Vue 却不需要？](https://github.com/ccc1018/Blog/issues/12)
 
 <!-- ## 成长路 -->
 
